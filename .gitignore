@@ -1,0 +1,8 @@
+.env
+.env.local
+/includes/db.php
+node_modules/
+src/output.css
+
+assets/img/uploads/
+hashpw.php
